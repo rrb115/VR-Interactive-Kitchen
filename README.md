@@ -1,1 +1,1 @@
-# XR-Interactive-Kitchen
+# VR-Interactive-Kitchen
